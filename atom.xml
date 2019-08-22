@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>MrJJT</title>
+  <title>blog</title>
   
-  <subtitle>世界那么大，我想去看看</subtitle>
+  <subtitle>学海无涯</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -43,11 +43,11 @@
   </entry>
   
   <entry>
-    <title>phpstorm shortcut keys</title>
+    <title>phpstorm快捷键大全</title>
     <link href="http://yoursite.com/2019/08/22/phpstorm-shortcut-keys/"/>
     <id>http://yoursite.com/2019/08/22/phpstorm-shortcut-keys/</id>
     <published>2019-08-22T06:58:31.000Z</published>
-    <updated>2019-08-22T07:33:10.856Z</updated>
+    <updated>2019-08-22T11:47:13.180Z</updated>
     
     <summary type="html">
     
