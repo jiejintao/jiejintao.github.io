@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MrJJT</title>
+  
+  <subtitle>世界那么大，我想去看看</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-08-22T07:45:28.902Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Jason</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>php 静态类与非静态类</title>
+    <link href="http://yoursite.com/2019/08/22/static-class/"/>
+    <id>http://yoursite.com/2019/08/22/static-class/</id>
+    <published>2019-08-22T07:25:00.000Z</published>
+    <updated>2019-08-22T07:45:28.902Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;静态类访问方法：&quot;&gt;&lt;a href=&quot;#静态类访问方法：&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="面向对象" scheme="http://yoursite.com/categories/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+    
+      <category term="php" scheme="http://yoursite.com/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>phpstorm shortcut keys</title>
+    <link href="http://yoursite.com/2019/08/22/phpstorm-shortcut-keys/"/>
+    <id>http://yoursite.com/2019/08/22/phpstorm-shortcut-keys/</id>
+    <published>2019-08-22T06:58:31.000Z</published>
+    <updated>2019-08-22T07:33:10.856Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h6 id=&quot;PhPStorm-是-JetBrains-公司开发的一款商业的-PHP&quot;&gt;&lt;a href=&quot;#PhPStorm-是-JetBrains-公司开发的一款商业的-PHP&quot; class=&quot;headerlink&quot; title=&quot;PhPStorm 是 JetBrains
+        
+      
+    
+    </summary>
+    
+      <category term="编辑器 快捷键" scheme="http://yoursite.com/categories/%E7%BC%96%E8%BE%91%E5%99%A8-%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+    
+      <category term="phpstorm" scheme="http://yoursite.com/tags/phpstorm/"/>
+    
+      <category term="快捷键" scheme="http://yoursite.com/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git常用命令使用大全</title>
+    <link href="http://yoursite.com/2019/08/22/git-command/"/>
+    <id>http://yoursite.com/2019/08/22/git-command/</id>
+    <published>2019-08-22T06:25:00.000Z</published>
+    <updated>2019-08-22T06:59:33.910Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Git常用命令使用大全&quot;&gt;&lt;a href=&quot;#Git常用命令使用大全&quot; class=&quot;headerlink&quot; title=&quot;Git常用命令使用大全&quot;&gt;&lt;/a&gt;Git常用命令使用大全&lt;/h1&gt;&lt;h3 id=&quot;查看、添加、提交、删除、找回，重置修改文件&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="Git" scheme="http://yoursite.com/categories/Git/"/>
+    
+    
+      <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>高逼格程序员指南</title>
+    <link href="http://yoursite.com/2019/08/21/article/"/>
+    <id>http://yoursite.com/2019/08/21/article/</id>
+    <published>2019-08-21T11:25:00.000Z</published>
+    <updated>2019-08-22T06:59:39.375Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;一-开始准备工作&quot;&gt;&lt;a href=&quot;#一-开始准备工作&quot; class=&quot;headerlink&quot; title=&quot;一.开始准备工作&quot;&gt;&lt;/a&gt;一.开始准备工作&lt;/h1&gt;&lt;h5
+        
+      
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://yoursite.com/categories/Markdown/"/>
+    
+    
+      <category term="杂谈" scheme="http://yoursite.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/08/21/hello-world/"/>
+    <id>http://yoursite.com/2019/08/21/hello-world/</id>
+    <published>2019-08-21T03:51:39.223Z</published>
+    <updated>2019-08-21T03:51:39.224Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
