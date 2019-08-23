@@ -5,9 +5,9 @@
   <subtitle>学海无涯</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="jiejintao.top/"/>
   <updated>2019-08-23T03:40:21.467Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>jiejintao.top/</id>
   
   <author>
     <name>Jason</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>常用php库</title>
-    <link href="http://yoursite.com/2019/08/23/php-library/"/>
-    <id>http://yoursite.com/2019/08/23/php-library/</id>
+    <link href="jiejintao.top/2019/08/23/php-library/"/>
+    <id>jiejintao.top/2019/08/23/php-library/</id>
     <published>2019-08-23T02:16:07.000Z</published>
     <updated>2019-08-23T03:40:21.467Z</updated>
     
@@ -35,17 +35,17 @@
     
     </summary>
     
-      <category term="PHP" scheme="http://yoursite.com/categories/PHP/"/>
+      <category term="PHP" scheme="jiejintao.top/categories/PHP/"/>
     
     
-      <category term="PHP库" scheme="http://yoursite.com/tags/PHP%E5%BA%93/"/>
+      <category term="PHP库" scheme="jiejintao.top/tags/PHP%E5%BA%93/"/>
     
   </entry>
   
   <entry>
     <title>php 静态类与非静态类</title>
-    <link href="http://yoursite.com/2019/08/22/static-class/"/>
-    <id>http://yoursite.com/2019/08/22/static-class/</id>
+    <link href="jiejintao.top/2019/08/22/static-class/"/>
+    <id>jiejintao.top/2019/08/22/static-class/</id>
     <published>2019-08-22T07:25:00.000Z</published>
     <updated>2019-08-22T07:45:28.902Z</updated>
     
@@ -61,17 +61,17 @@
     
     </summary>
     
-      <category term="面向对象" scheme="http://yoursite.com/categories/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+      <category term="面向对象" scheme="jiejintao.top/categories/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
     
     
-      <category term="php" scheme="http://yoursite.com/tags/php/"/>
+      <category term="php" scheme="jiejintao.top/tags/php/"/>
     
   </entry>
   
   <entry>
     <title>phpstorm快捷键大全</title>
-    <link href="http://yoursite.com/2019/08/22/phpstorm-shortcut-keys/"/>
-    <id>http://yoursite.com/2019/08/22/phpstorm-shortcut-keys/</id>
+    <link href="jiejintao.top/2019/08/22/phpstorm-shortcut-keys/"/>
+    <id>jiejintao.top/2019/08/22/phpstorm-shortcut-keys/</id>
     <published>2019-08-22T06:58:31.000Z</published>
     <updated>2019-08-22T11:47:13.180Z</updated>
     
@@ -87,19 +87,19 @@
     
     </summary>
     
-      <category term="编辑器 快捷键" scheme="http://yoursite.com/categories/%E7%BC%96%E8%BE%91%E5%99%A8-%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+      <category term="编辑器 快捷键" scheme="jiejintao.top/categories/%E7%BC%96%E8%BE%91%E5%99%A8-%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
     
     
-      <category term="phpstorm" scheme="http://yoursite.com/tags/phpstorm/"/>
+      <category term="phpstorm" scheme="jiejintao.top/tags/phpstorm/"/>
     
-      <category term="快捷键" scheme="http://yoursite.com/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+      <category term="快捷键" scheme="jiejintao.top/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
     
   </entry>
   
   <entry>
     <title>Git常用命令使用大全</title>
-    <link href="http://yoursite.com/2019/08/22/git-command/"/>
-    <id>http://yoursite.com/2019/08/22/git-command/</id>
+    <link href="jiejintao.top/2019/08/22/git-command/"/>
+    <id>jiejintao.top/2019/08/22/git-command/</id>
     <published>2019-08-22T06:25:00.000Z</published>
     <updated>2019-08-22T06:59:33.910Z</updated>
     
@@ -115,17 +115,17 @@
     
     </summary>
     
-      <category term="Git" scheme="http://yoursite.com/categories/Git/"/>
+      <category term="Git" scheme="jiejintao.top/categories/Git/"/>
     
     
-      <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
+      <category term="Git" scheme="jiejintao.top/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>高逼格程序员指南</title>
-    <link href="http://yoursite.com/2019/08/21/article/"/>
-    <id>http://yoursite.com/2019/08/21/article/</id>
+    <link href="jiejintao.top/2019/08/21/article/"/>
+    <id>jiejintao.top/2019/08/21/article/</id>
     <published>2019-08-21T11:25:00.000Z</published>
     <updated>2019-08-22T06:59:39.375Z</updated>
     
@@ -141,10 +141,10 @@
     
     </summary>
     
-      <category term="Markdown" scheme="http://yoursite.com/categories/Markdown/"/>
+      <category term="Markdown" scheme="jiejintao.top/categories/Markdown/"/>
     
     
-      <category term="杂谈" scheme="http://yoursite.com/tags/%E6%9D%82%E8%B0%88/"/>
+      <category term="杂谈" scheme="jiejintao.top/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
