@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>php library</title>
+      <link href="/2019/08/23/php-library/"/>
+      <url>/2019/08/23/php-library/</url>
+      
+        <content type="html"><![CDATA[<h1 id="每个程序员都应该知道的15个最佳PHP库"><a href="#每个程序员都应该知道的15个最佳PHP库" class="headerlink" title="每个程序员都应该知道的15个最佳PHP库"></a>每个程序员都应该知道的15个最佳PHP库</h1><p>PHP是一种功能强大的web站点脚本语言，通过PHP，web网站开发者可以更容易地创建动态的引人入胜的web页面。开发人员可以使用PHP代码与一些网站模板和框架来提升功能和特性。然而，编写PHP代码是一个繁琐又耗时的过程。为了缩短开发时间，开发人员可以用PHP库替代编写代码来为站点添加功能。<br>PHP是一种功能强大的web站点脚本语言，通过PHP，web网站开发者可以更容易地创建动态的引人入胜的web页面。开发人员可以使用PHP代码与一些网站模板和框架来提升功能和特性。然而，编写PHP代码是一个繁琐又耗时的过程。为了缩短开发时间，开发人员可以用PHP库替代编写代码来为站点添加功能。</p><p>使用PHP库来取代编写代码，可以显着地降低网站的开发时间，从而开发人员可以将时间投入到网站设计等重要环节。</p><h4 id="今天我们要介绍的就是15个最佳的PHP库，它们将帮助网站开发人员轻松提高网站的功能，优化PHP的开发时间。"><a href="#今天我们要介绍的就是15个最佳的PHP库，它们将帮助网站开发人员轻松提高网站的功能，优化PHP的开发时间。" class="headerlink" title="今天我们要介绍的就是15个最佳的PHP库，它们将帮助网站开发人员轻松提高网站的功能，优化PHP的开发时间。"></a>今天我们要介绍的就是15个最佳的PHP库，它们将帮助网站开发人员轻松提高网站的功能，优化PHP的开发时间。</h4><h2 id="1-PChart"><a href="#1-PChart" class="headerlink" title="1. PChart"></a>1. PChart</h2><p>PChart是一个令人印象深刻的PHP库，可以以一种可视化图表的形式生成文本数据。数据可以展示为柱状图，饼状图，以及其他格式。使用SQL查询可以帮助PHP脚本创建令人惊叹的图表和图形。</p><h2 id="2-PHP-CAPTCHA"><a href="#2-PHP-CAPTCHA" class="headerlink" title="2. PHP CAPTCHA"></a>2. PHP CAPTCHA</h2><p>PHP CAPTCHA是另一个伟大的用于创建自动化音频和可视化CAPTCHA的PHP库。CAPTCHA系统是完全自动的使用图灵测试来完成区分人和机器人的挑战。 PHP库需要PHP 4以及编译的FreeType文本和GD 1或2图像生成的支持。</p><h2 id="3-Dispatch"><a href="#3-Dispatch" class="headerlink" title="3.Dispatch"></a>3.Dispatch</h2><p>Dispatch是一个简单的PHP库，可以定义URL规则以更好地组织网站。使用这个PHP库你可以匹配HTTP路径和要求，显示器等的特定类型。结合Dispatch和本文中列出的其他库，开发人员就能有一个强大而简单的工作设置。</p><h2 id="3-Services-JSON"><a href="#3-Services-JSON" class="headerlink" title="3. Services_JSON"></a>3. Services_JSON</h2><p>Services_JSON允许人脑可读数据的传输。 PHP库的最新版本为服务器传输数据提供了极大的便捷。</p><h2 id="4-phpAES"><a href="#4-phpAES" class="headerlink" title="4. phpAES"></a>4. phpAES</h2><p>phpAES是支持128，192和256位AES加密密码的一类实现PHP代码。当涉及到汇编成PHP的时候，你不需要其他的扩展。phpAES是全功能的，并且符合FIPS 197。</p><h2 id="5-ImageWorkshop"><a href="#5-ImageWorkshop" class="headerlink" title="5. ImageWorkshop"></a>5. ImageWorkshop</h2><p>ImageWorkshop是一个伟大的开源PHP库，允许你层次化地控制操作图像。使用PHP库，你可以裁剪、调整大小、添加水印、制作缩略图等以不同的方式处理图像。 PHP库还可以更容易地进一步加强在web网站上所使用的图像。</p><h2 id="6-Mink"><a href="#6-Mink" class="headerlink" title="6.Mink"></a>6.Mink</h2><p>Mink是另一个有用的PHP库，可以帮助你用互联网浏览器测试web页面的交互。该库删除了不同浏览器之间的API的差异，从而给开发人员提供更好的测试环境。</p><h2 id="7-PHP-Thumbnailer"><a href="#7-PHP-Thumbnailer" class="headerlink" title="7. PHP Thumbnailer"></a>7. PHP Thumbnailer</h2><p>PHP Thumbnailer是一个简单的图像处理PHP库，能够帮助生成缩略图。此库不需要再安装外部库。PHP Thumbnailer提供了对缩略图的多种控制，如根据高度、宽度、百分比调整缩略图大小，旋转图像，以及创建自定义的小图形，如正方形。</p><h2 id="8-Hoa"><a href="#8-Hoa" class="headerlink" title="8.Hoa"></a>8.Hoa</h2><p>Hoa是结构化，模块化，可扩展的PHP库，可创建研究和工业领域之间的链接。 此PHP库建议必不可少的范式、机制、算法，以确保web站点的可靠性。</p><h2 id="9-PHP-Text-to-Image"><a href="#9-PHP-Text-to-Image" class="headerlink" title="9. PHP Text to Image"></a>9. PHP Text to Image</h2><p>PHP Text to Image是一个可以将文本转换成图像的PHP库。在某些简单的情况下，如显示email地址作为不能以编程方式发现的图像的时候，这是很有用的。使用这个PHP库可以通过网络爬虫以及将它当作垃圾邮件来减少电子邮件地址泛滥。</p><h2 id="10-Faker"><a href="#10-Faker" class="headerlink" title="10.Faker"></a>10.Faker</h2><p>Faker是一个非常有用的PHP库，可以在需要时创建假数据。使用这个PHP库，你可以执行各种诸如匿名数据，引导数据库，创建XML文档，进行压力测试的任务。</p><h2 id="11-PHP-Image-Upload-Class"><a href="#11-PHP-Image-Upload-Class" class="headerlink" title="11.PHP Image Upload Class"></a>11.PHP Image Upload Class</h2><p>PHP Image Upload Class是一个功能强大的PHP库，可以简化上传图像到窗体表格的过程。通过这个库，开发人员可以使用文件输入命令上传图片。开发人员也可以在类之外定义用户消息，通过gettext或类似的命令，在本地提供帮助。</p><h2 id="12-Ratchet"><a href="#12-Ratchet" class="headerlink" title="12.Ratchet"></a>12.Ratchet</h2><p>使用Ratchet PHP库，web开发人员可以创建实时性以及在客户端和服务器之间双向性的应用程序。 这个PHP库能够帮助促进和创造事件驱动应用程序，而不是使用传统的HTTP请求。</p><h2 id="13-PHP-Export-XLS-Class"><a href="#13-PHP-Export-XLS-Class" class="headerlink" title="13. PHP Export XLS Class"></a>13. PHP Export XLS Class</h2><p>PHP Export XLS Class是一个轻量级的，快速又简单的PHP库，可以导出不同类型的数据到Excel中。它可以转换各种数据格式到.xls格式。此库还可工作于多个工作表，元数据（标题，作者，描述，等），不同的字体类型和风格，填充，单元格边框和渐变。开发人员也可以使用PHP扩展来添加图像到工作表中。</p><h2 id="14-phpDocumentor"><a href="#14-phpDocumentor" class="headerlink" title="14. phpDocumentor"></a>14. phpDocumentor</h2><p>phpDocumentor是一个很不错的自动文档工具，可以帮助我们创建一个使用PHP代码的专业文档。 该PHP库支持添加多种不同的功能到网站。一些由PHP库支持的增值功能，包括支持合并自定义文档——例如教程，链接文档，创建高亮源代码，功能交叉引用到PHP常规文档。 此PHP库可以帮助自动化文档。</p><h2 id="15-PHP-DB-Class"><a href="#15-PHP-DB-Class" class="headerlink" title="15. PHP DB Class"></a>15. PHP DB Class</h2><p>PHP DB Class是一个伟大的PHP库，可以帮助开发PHP和MySQL。该工具可轻松方便地访问一个数据库，并减少执行任务所需的代码数量。此外，此PHP库提供各种调试功能。例如，开发人员可以使用调试功能来显示请求和结果表，还可以通过添加参数到它的类的方法来执行此任务。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PHP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PHP库 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>php 静态类与非静态类</title>
       <link href="/2019/08/22/static-class/"/>
       <url>/2019/08/22/static-class/</url>

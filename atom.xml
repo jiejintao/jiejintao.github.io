@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-22T07:45:28.902Z</updated>
+  <updated>2019-08-23T02:22:18.488Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>php library</title>
+    <link href="http://yoursite.com/2019/08/23/php-library/"/>
+    <id>http://yoursite.com/2019/08/23/php-library/</id>
+    <published>2019-08-23T02:16:07.000Z</published>
+    <updated>2019-08-23T02:22:18.488Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;每个程序员都应该知道的15个最佳PHP库&quot;&gt;&lt;a href=&quot;#每个程序员都应该知道的15个最佳PHP库&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="PHP" scheme="http://yoursite.com/categories/PHP/"/>
+    
+    
+      <category term="PHP库" scheme="http://yoursite.com/tags/PHP%E5%BA%93/"/>
+    
+  </entry>
   
   <entry>
     <title>php 静态类与非静态类</title>
