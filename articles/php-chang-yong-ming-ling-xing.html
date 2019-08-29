@@ -4,12 +4,12 @@
 
 <head><meta name="generator" content="Hexo 3.9.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="Git常用命令使用大全, PHP Python 软件开发 WEB">
-    <meta name="description" content="Git常用命令使用大全查看、添加、提交、删除、找回，重置修改文件git help &amp;lt;command&amp;gt; # 显示command的help
+    <meta name="keywords" content="PHP 常用命令行, PHP Python 软件开发 WEB">
+    <meta name="description" content="
+1、PHP运行指定文件php -f  test.php (-f 可省略)
+2、命令行直接运行PHP代码php -r &amp;quot;phpinfo();&amp;quot;
 
-git add &amp;lt;file&amp;gt; # 将工作文件修改提交到本地暂存区
-
-git a">
+如果结果太长，还可以 php -r “phpinfo();” | less">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -17,7 +17,7 @@ git a">
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>Git常用命令使用大全 | blog</title>
+    <title>PHP 常用命令行 | blog</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/font-awesome.min.css">
@@ -264,13 +264,13 @@ git a">
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/3.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/banner/4.jpg')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
                     <div class="description center-align post-title">
-                        Git常用命令使用大全
+                        PHP 常用命令行
                     </div>
                 </div>
             </div>
@@ -292,8 +292,8 @@ git a">
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/Git/" target="_blank">
-                                <span class="chip bg-color">Git</span>
+                            <a href="/tags/常用命令行/" target="_blank">
+                                <span class="chip bg-color">常用命令行</span>
                             </a>
                         
                     </div>
@@ -304,8 +304,8 @@ git a">
                     <div class="post-cate">
                         <i class="fa fa-bookmark fa-fw icon-category"></i>
                         
-                            <a href="/categories/Git/" class="post-category" target="_blank">
-                                Git
+                            <a href="/categories/PHP/" class="post-category" target="_blank">
+                                PHP
                             </a>
                         
                     </div>
@@ -316,21 +316,21 @@ git a">
             <div class="post-info">
                 <div class="post-date info-break-policy">
                     <i class="fa fa-calendar-minus-o fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2019-08-22
+                    2019-08-29
                 </div>
 
                 
                     
                     <div class="info-break-policy">
                         <i class="fa fa-file-word-o fa-fw"></i>文章字数:&nbsp;&nbsp;
-                        1.3k
+                        371
                     </div>
                     
 
                     
                     <div class="info-break-policy">
                         <i class="fa fa-clock-o fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                        5 分
+                        1 分
                     </div>
                     
                 
@@ -346,133 +346,64 @@ git a">
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h1 id="Git常用命令使用大全"><a href="#Git常用命令使用大全" class="headerlink" title="Git常用命令使用大全"></a>Git常用命令使用大全</h1><h3 id="查看、添加、提交、删除、找回，重置修改文件"><a href="#查看、添加、提交、删除、找回，重置修改文件" class="headerlink" title="查看、添加、提交、删除、找回，重置修改文件"></a>查看、添加、提交、删除、找回，重置修改文件</h3><pre><code>git help &lt;command&gt; # 显示command的help
+                <p><img src="https://img.php.cn/upload/article/000/000/020/5d677437e9031252.png" alt></p>
+<h1 id="1、PHP运行指定文件"><a href="#1、PHP运行指定文件" class="headerlink" title="1、PHP运行指定文件"></a>1、PHP运行指定文件</h1><p><code>php -f  test.php (-f 可省略)</code></p>
+<h1 id="2、命令行直接运行PHP代码"><a href="#2、命令行直接运行PHP代码" class="headerlink" title="2、命令行直接运行PHP代码"></a>2、命令行直接运行PHP代码</h1><pre><code>php -r &quot;phpinfo();&quot;
 
-git add &lt;file&gt; # 将工作文件修改提交到本地暂存区
+如果结果太长，还可以 php -r “phpinfo();” | less 分页展示</code></pre><h1 id="3、交互模式运行PHP"><a href="#3、交互模式运行PHP" class="headerlink" title="3、交互模式运行PHP"></a>3、交互模式运行PHP</h1><pre><code>简单的运算
 
-git add . # 将所有修改过的工作文件提交暂存区
+393f12882dfa50c2c29f2bdf67a62d3.png
 
-git rm &lt;file&gt; # 从版本库中删除文件
+control + c/z 或者 exit 退出交互模式
 
-git rm &lt;file&gt; --cached # 从版本库中删除文件，但不删除文件
+函数
 
-git reset &lt;file&gt; # 从暂存区恢复到工作文件
+3d109c17aee44aed196fb570c088794.png
 
-git reset -- . # 从暂存区恢复到工作文件
+上面输出结果中返回的数据类型为 NULL。这个问题可以通过要求 php 交互 shell用 return 代替 echo 返回结果来修复。
 
-git reset --hard # 恢复最近一次提交过的状态，即放弃上次提交后的所有本次修改
+永远都记住，用户定义的函数不会从一个shell会话保留到下一个shell会话，因此，一旦你退出交互shell，它就会丢失了。</code></pre><h1 id="4、PHP脚本作为shell脚本运行"><a href="#4、PHP脚本作为shell脚本运行" class="headerlink" title="4、PHP脚本作为shell脚本运行"></a>4、PHP脚本作为shell脚本运行</h1><pre><code>没有权限则切换到root用户 sudo su
 
-git revert &lt;$id&gt; # 恢复某次提交的状态，恢复动作本身也创建次提交对象
 
-git revert HEAD # 恢复最后一次提交的状态</code></pre><h3 id="查看文件diff"><a href="#查看文件diff" class="headerlink" title="查看文件diff"></a>查看文件diff</h3><pre><code>git diff &lt;file&gt; # 比较当前文件和暂存区文件差异 git diff
+echo &#39;#!/usr/bin/php\n&lt;?php var_dump($argv); ?&gt;&#39; &gt; phpscript
 
-git diff &lt;id1&gt;&lt;id1&gt;&lt;id2&gt; # 比较两次提交之间的差异
+注意，我们在该PHP脚本的第一行使用#!/usr/bin/php，就像在shell脚本中那样（/bin/bash）。第一行的#!/usr/bin/php告诉Linux命令行用 PHP 解释器来解析该脚本文件。
 
-git diff &lt;branch1&gt;..&lt;branch2&gt; # 在两个分支之间比较
+确定phpscript 有可执行权限
 
-git diff --staged # 比较暂存区和版本库差异
+chmod u+x phpscript
 
-git diff --cached # 比较暂存区和版本库差异
+./phpscript -h --foo
 
-git diff --stat # 仅仅比较统计信息</code></pre><h3 id="查看提交记录"><a href="#查看提交记录" class="headerlink" title="查看提交记录"></a>查看提交记录</h3><pre><code>git log git log &lt;file&gt; # 查看该文件每次提交记录
+array(3) {
 
-git log -p &lt;file&gt; # 查看每次详细修改内容的diff
+  [0]=&gt;
 
-git log -p -2 # 查看最近两次详细修改内容的diff
+  string(11) &quot;./phpscript&quot;
 
-git log --stat #查看提交统计信息
+  [1]=&gt;
 
-tig
+  string(2) &quot;-h&quot;
 
-Mac上可以使用tig代替diff和log，brew install tig</code></pre><h3 id="Git-本地分支管理"><a href="#Git-本地分支管理" class="headerlink" title="Git 本地分支管理"></a>Git 本地分支管理</h3><h4 id="查看、切换、创建和删除分支"><a href="#查看、切换、创建和删除分支" class="headerlink" title="查看、切换、创建和删除分支"></a>查看、切换、创建和删除分支</h4><pre><code>git br -r # 查看远程分支
+  [2]=&gt;
 
-git br &lt;new_branch&gt; # 创建新的分支
+  string(5) &quot;--foo&quot;
 
-git br -v # 查看各个分支最后提交信息
+}</code></pre><h1 id="5、其他常用命令"><a href="#5、其他常用命令" class="headerlink" title="5、其他常用命令"></a>5、其他常用命令</h1><pre><code>php -m 内置及Zend加载的模块
 
-git br --merged # 查看已经被合并到当前分支的分支
+php -i 等价于 phpinfo()
 
-git br --no-merged # 查看尚未被合并到当前分支的分支
+php -i | grep php.ini 查看php配置文件加载路径
 
-git co &lt;branch&gt; # 切换到某个分支
+php –ini 同上
 
-git co -b &lt;new_branch&gt; # 创建新的分支，并且切换过去
+php -v 查看php版本
 
-git co -b &lt;new_branch&gt; &lt;branch&gt; # 基于branch创建新的new_branch
+php –version 同上
 
-git co $id # 把某次历史提交记录checkout出来，但无分支信息，切换到其他分支会自动删除
+php –re 查看是否安装相应的扩展 如 php –re gd
 
-git co $id -b &lt;new_branch&gt; # 把某次历史提交记录checkout出来，创建成一个分支
-
-git br -d &lt;branch&gt; # 删除某个分支
-
-git br -D &lt;branch&gt; # 强制删除某个分支 (未被合并的分支被删除的时候需要强制)</code></pre><h3 id="分支合并和rebase-分支合并和rebase"><a href="#分支合并和rebase-分支合并和rebase" class="headerlink" title="分支合并和rebase 分支合并和rebase"></a>分支合并和rebase 分支合并和rebase</h3><pre><code>git merge &lt;branch&gt; # 将branch分支合并到当前分支
-
-git merge origin/master --no-ff # 不要Fast-Foward合并，这样可以生成merge提交
-
-git rebase master &lt;branch&gt; # 将master rebase到branch，相当于： git co &lt;branch&gt; &amp;&amp; git rebase master &amp;&amp; git co master &amp;&amp; git merge &lt;branch&gt;
-
- Git补丁管理(方便在多台机器上开发同步时用)
-
-git diff &gt; ../sync.patch # 生成补丁
-
-git apply ../sync.patch # 打补丁
-
-git apply --check ../sync.patch #测试补丁能否成功</code></pre><h3 id="Git暂存管理-Git暂存管理"><a href="#Git暂存管理-Git暂存管理" class="headerlink" title="Git暂存管理 Git暂存管理"></a>Git暂存管理 Git暂存管理</h3><pre><code>git stash # 暂存
-
-git stash list # 列所有stash
-
-git stash apply # 恢复暂存的内容
-
-git stash drop # 删除暂存区</code></pre><h3 id="Git远程分支管理"><a href="#Git远程分支管理" class="headerlink" title="Git远程分支管理"></a>Git远程分支管理</h3><pre><code>git pull # 抓取远程仓库所有分支更新并合并到本地
-
-git pull --no-ff # 抓取远程仓库所有分支更新并合并到本地，不要快进合并
-
-git fetch origin # 抓取远程仓库更新
-
-git merge origin/master # 将远程主分支合并到本地当前分支
-
-git co --track origin/branch # 跟踪某个远程分支创建相应的本地分支
-
-git co -b &lt;local_branch&gt; origin/&lt;remote_branch&gt; # 基于远程分支创建本地分支，功能同上
-
-git push # push所有分支
-
-git push origin master # 将本地主分支推到远程主分支
-
-git push -u origin master # 将本地主分支推到远程(如无远程主分支则创建，用于初始化远程仓库)
-
-git push origin &lt;local_branch&gt; # 创建远程分支， origin是远程仓库名
-
-git push origin &lt;local_branch&gt;:&lt;remote_branch&gt; # 创建远程分支
-
-git push origin :&lt;remote_branch&gt; #先删除本地分支(git br -d &lt;branch&gt;)，然后再push删除远程分支</code></pre><h3 id="Git远程仓库管理"><a href="#Git远程仓库管理" class="headerlink" title="Git远程仓库管理"></a>Git远程仓库管理</h3><pre><code>GitHub
-
-git remote -v # 查看远程服务器地址和仓库名称
-
-git remote show origin # 查看远程服务器仓库状态
-
-git remote add origin git@ github:robbin/robbin_site.git # 添加远程仓库地址
-
-git remote set-url origin git@ github.com:robbin/robbin_site.git # 设置远程仓库地址(用于修改远程仓库地址) git remote rm &lt;repository&gt; # 删除远程仓库</code></pre><h3 id="创建远程仓库"><a href="#创建远程仓库" class="headerlink" title="创建远程仓库"></a>创建远程仓库</h3><pre><code>git clone --bare robbin_site robbin_site.git # 用带版本的项目创建纯版本仓库
-
-scp -r my_project.git git@ git.csdn.net:~ # 将纯仓库上传到服务器上
-
-mkdir robbin_site.git &amp;&amp; cd robbin_site.git &amp;&amp; git --bare init # 在服务器创建纯仓库
-
-git remote add origin git@ github.com:robbin/robbin_site.git # 设置远程仓库地址
-
-git push -u origin master # 客户端首次提交
-
-git push -u origin develop # 首次将本地develop分支提交到远程develop分支，并且track
-
-git remote set-head origin master # 设置远程仓库的HEAD指向master分支
-
-也可以命令设置跟踪远程库和本地库
-
-git branch --set-upstream master origin/master
-
-git branch --set-upstream develop origin/develop</code></pre>
+更多命令 php –help</code></pre>
             </div>
             <hr/>
 
@@ -630,9 +561,9 @@ git branch --set-upstream develop origin/develop</code></pre>
             <br/>
             <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text"
                   property="dct:title" rel="dct:type">
-                    《Git常用命令使用大全》
+                    《PHP 常用命令行》
                 </span> 由
-            <a xmlns:cc="http://creativecommons.org/ns#" href="/articles/git-command.html" property="cc:attributionName"
+            <a xmlns:cc="http://creativecommons.org/ns#" href="/articles/php-chang-yong-ming-ling-xing.html" property="cc:attributionName"
                rel="cc:attributionURL">
                 jason
             </a> 采用
@@ -698,30 +629,30 @@ git branch --set-upstream develop origin/develop</code></pre>
             <div class="article-badge left-badge text-color">
                 <i class="fa fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/articles/phpstorm-shortcut-keys.html">
+                <a href="/articles/php-mian-xiang-dui-xiang-jian-yi-yan-zheng-ma-lei.html">
                     <div class="card-image">
                         
-                        <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="phpstorm快捷键大全">
+                        <img src="/medias/banner/0.jpg" class="responsive-img" alt="PHP面向对象简易验证码类">
                         
-                        <span class="card-title">phpstorm快捷键大全</span>
+                        <span class="card-title">PHP面向对象简易验证码类</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            phpstorm常用快捷键
+                            PHP 常用命令行
                         
                     </div>
                     <div class="publish-info">
                         <span class="publish-date">
-                            <i class="fa fa-clock-o fa-fw icon-date"></i>2019-08-22
+                            <i class="fa fa-clock-o fa-fw icon-date"></i>2019-08-29
                         </span>
                         <span class="publish-author">
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/编辑器-快捷键/" class="post-category" target="_blank">
-                                    编辑器 快捷键
+                            <a href="/categories/PHP/" class="post-category" target="_blank">
+                                    PHP
                                 </a>
                             
                             
@@ -731,12 +662,8 @@ git branch --set-upstream develop origin/develop</code></pre>
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/phpstorm/" target="_blank">
-                        <span class="chip bg-color">phpstorm</span>
-                    </a>
-                    
-                    <a href="/tags/快捷键/" target="_blank">
-                        <span class="chip bg-color">快捷键</span>
+                    <a href="/tags/验证码/" target="_blank">
+                        <span class="chip bg-color">验证码</span>
                     </a>
                     
                 </div>
@@ -750,30 +677,30 @@ git branch --set-upstream develop origin/develop</code></pre>
                 下一篇&nbsp;<i class="fa fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/articles/article.html">
+                <a href="/articles/php-library.html">
                     <div class="card-image">
                         
-                        <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="高逼格程序员指南">
+                        <img src="/medias/featureimages/4.jpg" class="responsive-img" alt="常用php库">
                         
-                        <span class="card-title">高逼格程序员指南</span>
+                        <span class="card-title">常用php库</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            教你怎么高效的装逼
+                            每个程序员都应该知道的15个最佳PHP库
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-08-21
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-08-23
                             </span>
                         <span class="publish-author">
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/Markdown/" class="post-category" target="_blank">
-                                    Markdown
+                            <a href="/categories/PHP/" class="post-category" target="_blank">
+                                    PHP
                                 </a>
                             
                             
@@ -783,8 +710,8 @@ git branch --set-upstream develop origin/develop</code></pre>
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/杂谈/" target="_blank">
-                        <span class="chip bg-color">杂谈</span>
+                    <a href="/tags/PHP库/" target="_blank">
+                        <span class="chip bg-color">PHP库</span>
                     </a>
                     
                 </div>

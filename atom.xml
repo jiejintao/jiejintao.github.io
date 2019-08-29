@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="jiejintao.top/"/>
-  <updated>2019-08-23T03:40:21.467Z</updated>
+  <updated>2019-08-29T08:44:59.703Z</updated>
   <id>jiejintao.top/</id>
   
   <author>
@@ -15,6 +15,59 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PHP面向对象简易验证码类</title>
+    <link href="jiejintao.top//articles/php-mian-xiang-dui-xiang-jian-yi-yan-zheng-ma-lei.html"/>
+    <id>jiejintao.top//articles/php-mian-xiang-dui-xiang-jian-yi-yan-zheng-ma-lei.html</id>
+    <published>2019-08-29T08:35:25.000Z</published>
+    <updated>2019-08-29T08:44:59.703Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;PHP简单验证码类，可直接使用，替换字体路径&quot;&gt;&lt;a href=&quot;#PHP简单验证码类，可直接使用，替换字体路径&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="PHP" scheme="jiejintao.top/categories/PHP/"/>
+    
+    
+      <category term="验证码" scheme="jiejintao.top/tags/%E9%AA%8C%E8%AF%81%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 常用命令行</title>
+    <link href="jiejintao.top//articles/php-chang-yong-ming-ling-xing.html"/>
+    <id>jiejintao.top//articles/php-chang-yong-ming-ling-xing.html</id>
+    <published>2019-08-29T08:20:55.000Z</published>
+    <updated>2019-08-29T08:46:13.741Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://img.php.cn/upload/article/000/000/020/5d677437e9031252.png&quot; alt&gt;&lt;/p&gt;
+&lt;h1 id=&quot;1、PHP运行指定文件&quot;&gt;&lt;a href=&quot;#1、PHP运行指定文件&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="PHP" scheme="jiejintao.top/categories/PHP/"/>
+    
+    
+      <category term="常用命令行" scheme="jiejintao.top/tags/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>常用php库</title>
